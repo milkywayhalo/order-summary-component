@@ -4,3 +4,5 @@ You can find this coding challenge here:
 https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
 ![FullScreen Order Summary Component](https://github.com/milkywayhalo/order-summary-component/blob/main/images/FullScreen_OrderSummaryComponent.png?raw=true)
+
+![Zoomed Order Summary Component](https://github.com/milkywayhalo/order-summary-component/blob/main/images/Zoomed_OrderSummaryComponent.png?raw=true)
